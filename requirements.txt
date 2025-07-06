@@ -1,0 +1,6 @@
+streamlit
+Pillow
+matplotlib
+inference-sdk
+google-generativeai
+fpdf
